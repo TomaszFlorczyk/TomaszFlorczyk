@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaszflorczyk&label=Profile%20views&color=0e75b6&style=flat" alt="tomaszflorczyk" /> </p>
 
-- 🌱 I’m currently learning **Python, LinuxOS, ASP.NET Core 6.0 Web API with C#**
+- 🌱 I’m currently learning **MSSQL, Entity Framework, ASP.NET Core 6.0 Web API with C#**
 
 - 📫 How to reach me **tomasz.florczyk98@gmail.com**
 
