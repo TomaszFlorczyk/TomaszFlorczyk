@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tomasz.florczyk98@gmail.com**
 
-- ⚡ Hobby **Fishing, playing drums**
+- ⚡ Hobby **Fishing, playing drums, badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
