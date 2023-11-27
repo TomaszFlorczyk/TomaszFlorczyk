@@ -1,7 +1,7 @@
 
 ![MasterHead](https://images.ctfassets.net/hrltx12pl8hq/4ACnMj4WVSOZRZt0jHu9h5/1506f652bcd70f4dc3e88219fefea858/shutterstock_739595833-min.jpg?fit=fill&w=800&h=300)
 <h1 align="center">Hi 👋, I'm Tomasz Florczyk</h1>
-<h3 align="center">I am a graduate of the Wrocław University of Technology. I am currently learning python programming</h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaszflorczyk&label=Profile%20views&color=0e75b6&style=flat" alt="tomaszflorczyk" /> </p>
